@@ -1,6 +1,6 @@
 package college_Wallah;
 
-public class Array_3_Q4 {
+public class Array_3_Q4_FindingFirst_and_SecondMaximum_number {
     static int Find_1st_Max(int[] arr) {
 
         int max = Integer.MIN_VALUE;

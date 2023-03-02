@@ -1,8 +1,6 @@
 package college_Wallah;
 
-import java.util.Scanner;
-
-public class Array_4_ReversingOrderOfArray {
+public class Array_4_Q2_ReversingOrderOfArray {
     /* QUE:- revers the order of given array
        case1 : [1,2,3,4,5]
        output:- [5,4,3,2,1]
